@@ -1,6 +1,6 @@
 #include <stdio.h
 int main()
 {
-    printf("Welcome\tto\tSLIIT\t");
+    printf("Welcome\nto\nSLIIT\n");
     return 0;
 }
