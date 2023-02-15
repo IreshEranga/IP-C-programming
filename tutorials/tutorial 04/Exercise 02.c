@@ -24,7 +24,7 @@ int main()
 	else if(transactiontype == 'd' || transactiontype == 'D')
 	{
 		printf("You have selected to deposite money----");
-		printf("\nEnter withdraw amount :");
+		printf("\nEnter deposite amount :");
 		scanf("%f",&amount);
 		
 		newbankbalance = bankbalance + amount;
